@@ -1,4 +1,4 @@
 # Hello_world
 tutorial
 
-Here is some add information
+Here is some additional info
